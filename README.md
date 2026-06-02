@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi, I'm Vedant Jawake 👋
+
+🎓 MCA Student
+
+💻 Currently Learning
+- Java
+- JavaScript
+- HTML & CSS
+- Git & GitHub
+- Databases
+
+🚀 Goals
+- Build Real-World Projects
+- Improve Programming Skills
+- Learn Modern Technologies
+- Get an Internship
+
+📚 Always Learning## Hi there 👋
 
 <!--
 **vedantjawake/vedantjawake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
