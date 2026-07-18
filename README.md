@@ -1,18 +1,28 @@
-# Hi, I'm vedant jawake 👋
+# Hi, I'm Vedant Jawake 👋
 
-🎓 MCA Student | Aspiring Full-Stack Developer
+🎓 **MCA Student** | **Full-Stack Developer** | **AI Enthusiast**
 
-🔭 Currently building full-stack web applications using MERN Stack
+💻 Passionate about building scalable, user-friendly, and impactful web applications while continuously exploring modern software development and Artificial Intelligence.
 
-👯 Open to collaborating on Web Development Projects
+## 🚀 Currently
 
-🤝 Seeking guidance in DevOps, Cloud, and System Design
+* 🔭 Building Full-Stack Web Applications
+* 🌱 Learning **React.js, Node.js, Java, Spring Boot, MongoDB, Docker, CI/CD, Cloud Computing, and System Design**
+* 🤖 Exploring AI integration in real-world applications
 
-🌱 Learning React.js, Node.js, MongoDB, Docker, and CI/CD
+## 🤝 Looking to Collaborate On
 
-💬 Ask me about HTML, CSS, JavaScript, React.js, and GitHub
+* Full-Stack Development Projects
+* Open Source Contributions
+* AI-Powered Applications
 
-⚡ Passionate about creating user-friendly and scalable applications
+## 💬 Ask Me About
+
+* HTML5, CSS3 & JavaScript
+* React.js & Node.js
+* Java & Spring Boot
+* REST APIs
+* Git & GitHub
 
 ## 🌐 Connect With Me
 
@@ -44,6 +54,8 @@
 * Learn DevOps & Cloud Technologies
 * Secure a Software Development Internship
 
+To become a **Full-Stack Software Developer** who builds scalable, high-performance applications and leverages AI to solve real-world problems.
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=vedantjawake\&show_icons=true\&theme=tokyonight)
@@ -54,4 +66,4 @@
 
 ---
 
-⭐ Always Learning • Building • Growing
+⚡ **Always learning, always building, always improving.**
