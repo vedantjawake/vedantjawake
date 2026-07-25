@@ -54,7 +54,7 @@ name: Vedant Jawake
 role: 
   - Full-Stack Developer
   - MCA Student
-  - Tech Enthusiast
+  - AI/ML & GenAI Enthusiast
 
 currently_building:
   - Production Web Applications
@@ -352,3 +352,276 @@ Every line is intentional. Every project is a step forward. Every day I'm better
 ![](https://img.shields.io/badge/Passion-Building%20Great%20Software-00D9FF?style=for-the-badge)
 
 </div>
+<div align="center">
+
+# 👋 Hi, I'm Vedant Jawake
+
+### ☕ Java Full Stack Developer • 🚀 React Developer • 🤖 AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Building+Scalable+Software;Java+%7C+Spring+Boot+%7C+React;AI+Powered+Applications;Always+Learning+Always+Building;Future+Software+Engineer"/>
+
+<br>
+
+<a href="https://github.com/vedantjawake">
+<img src="https://img.shields.io/github/followers/vedantjawake?style=for-the-badge&logo=github&color=00BFFF&labelColor=0D1117"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=vedantjawake&style=for-the-badge&color=00BFFF&labelColor=0D1117"/>
+
+<a href="https://github.com/vedantjawake?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-00BFFF?style=for-the-badge&labelColor=0D1117"/>
+</a>
+
+</div>
+
+---
+# 💙 About Me
+
+I'm **Vedant Jawake**, an MCA student passionate about building modern software using **Java, Spring Boot, React, Node.js, and Artificial Intelligence**.
+
+I enjoy creating end-to-end applications that solve real-world problems while continuously improving my backend development, frontend engineering, and software architecture skills.
+
+My goal is to become a Software Engineer who builds scalable, reliable, and intelligent applications.
+
+---
+# ⚡ Developer Snapshot
+
+```yaml
+Name: Vedant Jawake
+
+Role:
+  - Java Full Stack Developer
+  - MCA Student
+  - AI Enthusiast
+
+Currently Building:
+  - Smart Student Course Portal
+  - Employee Management System
+  - AI Projects
+
+Learning:
+  - Spring Boot
+  - Docker
+  - System Design
+  - Generative AI
+
+Goal:
+  Become a Software Engineer at a Product Company
+
+Philosophy:
+  Learn → Build → Improve → Repeat
+```
+
+---
+# 🚀 Current Focus
+
+| 🚀 Building | 📚 Learning | 🎯 Goal |
+|-------------|------------|---------|
+| Smart Student Course Portal | Spring Boot | Software Engineer |
+| Employee Management System | Docker | Internship |
+| AI Applications | System Design | Open Source |
+| React Projects | Cloud Fundamentals | AI Integration |
+
+---
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker"/>
+
+</div>
+
+---
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎓 Smart Student Course Portal
+
+### AI-Powered Student Management Platform
+
+**Tech Stack**
+
+`Java` `Spring Boot` `React` `MySQL`
+
+**Features**
+
+- 🎯 Student Dashboard
+- 🤖 AI Career Guidance *(Planned)*
+- 📅 Semester Planner
+- 📚 Course Management
+- 🔐 Secure Authentication
+- 📈 Placement Roadmap
+
+**Status**
+
+🚧 Currently Building
+
+</td>
+
+<td width="50%" valign="top">
+
+## 👨‍💼 Employee Management System
+
+### Full Stack Management Solution
+
+**Tech Stack**
+
+`React` `Flask` `MongoDB`
+
+**Features**
+
+- 👥 Employee CRUD
+- 🔐 Authentication
+- 📊 Admin Dashboard
+- 📅 Attendance
+- 💰 Payroll Module
+- 📄 Employee Profiles
+
+**Status**
+
+✅ Completed
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🍱 Mauli Mess
+
+### Online Food Ordering Platform
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB`
+
+**Features**
+
+- 🍽 Online Food Ordering
+- 💳 Razorpay Integration
+- 📦 Order Tracking
+- 👨‍💼 Admin Panel
+- 📱 Responsive UI
+
+**Status**
+
+🚧 In Progress
+
+</td>
+
+<td width="50%" valign="top">
+
+## 📢 Complaint Box
+
+### Complaint Management System
+
+**Tech Stack**
+
+`Java` `Spring Boot`
+
+**Features**
+
+- 📝 Register Complaints
+- 📋 Complaint Status
+- 🔐 User Authentication
+- 📊 Admin Dashboard
+
+**Status**
+
+✅ Workshop Project
+
+</td>
+
+</tr>
+</table>
+
+---
+# 🗺️ Engineering Journey
+
+```text
+2023
+│
+├── HTML • CSS • JavaScript
+│
+2024
+│
+├── React.js
+├── Node.js
+├── MongoDB
+│
+2025
+│
+├── Java
+├── REST APIs
+├── Git & GitHub
+│
+2026
+│
+├── Spring Boot
+├── Docker
+├── System Design
+├── Artificial Intelligence
+│
+Future
+│
+├── AWS
+├── Kubernetes
+├── Microservices
+└── Software Engineering
+```
+
+---
+# 📜 Certifications
+
+| Certification | Status |
+|--------------|--------|
+| ☕ Java Full Stack Workshop | ✅ Completed |
+| 🌱 Spring Boot Workshop | ✅ Completed |
+| ⚛ React.js Workshop | ✅ Completed |
+| 🤖 Generative AI Fundamentals | 📚 Learning |
+| ☁ Google Cloud Skills Boost | 📚 In Progress |
+| 🧠 Microsoft Learn AI | 📚 In Progress |
+
+---
+# 🎯 Core Skills
+
+| Domain | Technologies |
+|---------|--------------|
+| 💻 Programming | Java, JavaScript, Python, C++ |
+| 🌐 Frontend | React, HTML, CSS, Tailwind, Bootstrap |
+| ⚙ Backend | Spring Boot, Node.js, Express |
+| 🗄 Database | MySQL, MongoDB, Firebase |
+| 🔧 Tools | Git, GitHub, VS Code, Postman, Docker |
+| 🤖 AI | Prompt Engineering, Gemini API, OpenAI APIs |
+
+---
