@@ -1,69 +1,123 @@
-# Hi, I'm Vedant Jawake 👋
+<div align="center">
 
-🎓 **MCA Student** | **Full-Stack Developer** | **AI Enthusiast**
+# 👋 Hi, I'm Vedant Jawake
 
-💻 Passionate about building scalable, user-friendly, and impactful web applications while continuously exploring modern software development and Artificial Intelligence.
+### ☕ Java Full Stack Developer • 🚀 React Developer • 🤖 AI Enthusiast
 
-## 🚀 Currently
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=950&lines=Building+Scalable+Software;Java+%7C+Spring+Boot+%7C+React;AI+Powered+Applications;Learning+Every+Day;Future+Software+Engineer"/>
 
-* 🔭 Building Full-Stack Web Applications
-* 🌱 Learning **React.js, Node.js, Java, Spring Boot, MongoDB, Docker, CI/CD, Cloud Computing, and System Design**
-* 🤖 Exploring AI integration in real-world applications
+<br>
 
-## 🤝 Looking to Collaborate On
+<a href="https://github.com/vedantjawake">
+<img src="https://img.shields.io/github/followers/vedantjawake?style=for-the-badge&logo=github&color=00BFFF&labelColor=0D1117"/>
+</a>
 
-* Full-Stack Development Projects
-* Open Source Contributions
-* AI-Powered Applications
+<img src="https://komarev.com/ghpvc/?username=vedantjawake&style=for-the-badge&color=00BFFF&labelColor=0D1117"/>
 
-## 💬 Ask Me About
+<a href="https://github.com/vedantjawake?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-00BFFF?style=for-the-badge&labelColor=0D1117"/>
+</a>
 
-* HTML5, CSS3 & JavaScript
-* React.js & Node.js
-* Java & Spring Boot
-* REST APIs
-* Git & GitHub
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/vedant-jawake)  •
-[GitHub](https://github.com/vedantjawake)  •
-[Quora](https://quora.com/profile/Vedant-Jawake-1)  •
-[Reddit](https://reddit.com/user/vednttttt_03)  •
-[Email](mailto:vedantjawake6@gmail.com)
-
-## 🚀 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white) 
-
-## 🎯 Goals
-
-* Build Real-World Projects
-* Master Full-Stack Development
-* Learn DevOps & Cloud Technologies
-* Secure a Software Development Internship
-
-To become a **Full-Stack Software Developer** who builds scalable, high-performance applications and leverages AI to solve real-world problems.
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=vedantjawake\&show_icons=true\&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedantjawake\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjawake\&layout=compact\&theme=tokyonight)
+</div>
 
 ---
-         
-⚡ **Always learning, always building, always improving.**
+
+# 💡 About Me
+
+I'm **Vedant Jawake**, an MCA student passionate about building modern software using **Java, Spring Boot, React, and Artificial Intelligence**.
+
+I enjoy creating real-world applications that solve practical problems while continuously improving my software engineering skills.
+
+Currently focused on mastering backend development, scalable application architecture, and AI-powered solutions.
+
+---
+
+# 🚀 Developer Dashboard
+
+```text
+╔════════════════════════════════════════════════════╗
+║ Name      : Vedant Jawake                         ║
+║ Role      : Java Full Stack Developer             ║
+║ Education : Master of Computer Applications       ║
+║ Location  : Maharashtra, India                    ║
+║ Status    : Building • Learning • Growing         ║
+╚════════════════════════════════════════════════════╝
+```
+
+---
+
+# ⚡ Current Focus
+
+| 💻 Building | 🌱 Learning | 🎯 Goal |
+|-------------|------------|----------|
+| Smart Student Course Portal | Spring Boot | Software Engineer |
+| Employee Management System | Docker | Internship |
+| AI Applications | AWS Cloud | Open Source |
+| Full Stack Projects | System Design | AI Integration |
+
+---
+
+# 🧭 Engineering Journey
+
+```text
+Programming Fundamentals
+          │
+          ▼
+Frontend Development
+          │
+          ▼
+Backend Development
+          │
+          ▼
+Database Design
+          │
+          ▼
+REST APIs
+          │
+          ▼
+Spring Boot
+          │
+          ▼
+Artificial Intelligence
+          │
+          ▼
+Scalable Software Engineering
+```
+
+---
+
+# 🌟 What You'll Find Here
+
+✅ Full Stack Applications
+
+✅ Java & Spring Boot Projects
+
+✅ React Frontend Development
+
+✅ REST API Implementations
+
+✅ AI Powered Solutions
+
+✅ Open Source Learning
+
+✅ Clean Architecture
+
+✅ Continuous Improvement
+
+---
+
+# 📈 2026 Mission
+
+- 🚀 Build 30+ High-Quality Projects
+- ☕ Master Spring Boot Ecosystem
+- ⚛️ Become Advanced in React
+- 🤖 Build AI-Integrated Applications
+- 🏆 Participate in Major Hackathons
+- 💼 Secure a Software Engineering Internship
+- 🌍 Contribute to Open Source
+
+---
+
+# 💬 Developer Philosophy
+
+> **"Great software is built through consistency, curiosity, and continuous learning—not shortcuts."**
