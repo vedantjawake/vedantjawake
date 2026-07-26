@@ -1,13 +1,18 @@
 <div align="center">
-  
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&animation=twinkling&height=200&section=header&text=Vedant%20Jawake&fontSize=70&fontAlignY=35&color=00D9FF&fontColor=FFFFFF" alt="Header"/>
-  
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&duration=4000&pause=1800&color=00E5FF&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+Software+Engineer;Artificial+Intelligence+%26+ML+Specialist;Architecting+Enterprise-Grade+Solutions;Delivering+Innovation+Through+Code"/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1500&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=+Full-Stack+Engineer+%26+AI+Innovator;+Building+Scalable%2C+Elegant+Solutions;+Architecting+the+Future+of+Tech;+10x+Developer+%7C+Problem+Solver;+Always+Learning%2C+Always+Shipping"/>
   <br>
   
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast;MCA+Student+Building+Scalable+Solutions;From+Code+to+Impact;Always+Learning%2C+Always+Shipping"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1500&color=00F0FF&center=true&vCenter=true&width=900&height=70&lines=+Full-Stack+Engineer+%26+AI+Innovator;+Building+Scalable%2C+Elegant+Solutions;+Architecting+the+Future+of+Tech;+10x+Developer+%7C+Problem+Solver;+Always+Learning%2C+Always+Shipping"/>
   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast;MCA+Student+Building+Scalable+Solutions;From+Code+to+Impact;Always+Learning%2C+Always+Shipping"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=28&duration=3800&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&lines=FULL-STACK+DEVELOPER;AI+%26+MACHINE+LEARNING;BUILDING+TOMORROW%2C+TODAY;SCALABLE+SOLUTIONS+ARCHITECT"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=36&duration=3200&pause=2000&color=00F0FF&background=0A0E27&center=true&vCenter=true&width=950&height=80&lines=+VEDANT+JAWAKE;+Full-Stack+Developer+%7C+AI+Architect;+Engineering+Excellence+Daily;+Transforming+Ideas+Into+Reality;+Your+Next+Tech+Leader"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&duration=4000&pause=1800&color=00E5FF&center=true&vCenter=true&width=900&lines=Senior+Full-Stack+Software+Engineer;Artificial+Intelligence+%26+ML+Enthusiast;Architecting+Enterprise-Grade+Solutions;10x+Developer+%7C+Problem+Solver+%7C+Innovator;Transforming+Complex+Problems+Into+Elegant+Code"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=34&duration=3600&pause=1400&color=00D9FF&center=true&vCenter=true&width=920&height=75&lines=%E2%9C%A8+FULL-STACK+DEVELOPER;%F0%9F%A4%96+AI+%26+ML+ENGINEER;%F0%9F%9A%80+BUILDING+TOMORROW%2C+TODAY;%E2%9A%A1+SCALABLE+SYSTEMS+ARCHITECT;%F0%9F%8E%AF+INNOVATION+%7C+EXCELLENCE+%7C+IMPACT"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=29&duration=3900&pause=1600&color=00F0FF&background=000000&center=true&vCenter=true&width=880&lines=Full+Stack+Developer+%26+AI+Innovator;Building+Elegant%2C+Scalable+Solutions;Engineering+Excellence+%7C+Every+Day;Transforming+Ideas+Into+Production;Next+Generation+Tech+Architect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=900&size=31&duration=4200&pause=1900&color=00D9FF&center=true&vCenter=true&width=910&lines=FULL-STACK+ENGINEER;AI+%26+MACHINE+LEARNING+SPECIALIST;ARCHITECTING+TOMORROW%E2%80%99S+SOLUTIONS;EXCELLENCE+IN+EVERY+LINE+OF+CODE;INNOVATOR+%7C+BUILDER+%7C+MENTOR"/>
   <br><br>
   
   <!-- Premium Badges Row -->
