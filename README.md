@@ -66,12 +66,19 @@ Philosophy:
  
 <div align="center">
 ### 🌐 Frontend Architecture
+
+
+
  
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
 ### ⚙️ Backend Engineering
+
+
  
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,firebase"/>
 ### 🔧 Development Ecosystem
+
+
  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
 </div>
