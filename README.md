@@ -22,16 +22,15 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7Wm/giphy.gif" width="80" alt="Coding GIF"/>
 </div>
-## 👋 Hi, I'm Vedant Jawake
+# Hi, I'm Vedant Jawake 👋
 
-I'm an **MCA student**, **Full-Stack Developer**, and **AI & Data Analytics Enthusiast** passionate about building scalable, user-centric applications with modern technologies.
+**Full-Stack Developer • AI Engineer • Data Analytics Enthusiast • Python Developer**
 
-🚀 **Journey**
+I build intelligent software where modern engineering, artificial intelligence, and data-driven solutions come together to solve meaningful real-world problems.
 
-`Web Development` → `Full-Stack Engineering` → `Python` → `Data Analytics` → `Generative AI` → `Cloud` → `System Design`
+My journey started with programming fundamentals, grew into full-stack application development, expanded into Python and Data Analytics, and is now focused on Generative AI, Cloud Computing, and scalable software architecture.
 
-💡 I build intelligent, high-performance software using **Python, Java, React, Spring Boot, SQL, MongoDB, AI, LLMs & Data Analytics** while continuously learning and creating impactful projects.
-
+I believe the best way to learn is by building complete, production-ready projects that combine clean code, strong system design, and exceptional user experiences.
 ---
 
 
