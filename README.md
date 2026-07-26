@@ -19,19 +19,21 @@
   
 </div>
 
----
-
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7Wm/giphy.gif" width="80" alt="Coding GIF"/>
 </div>
+## 👋 Hi, I'm Vedant Jawake
 
-Hi, I'm **Vedant Jawake** — an **MCA student** and **full-stack developer** obsessed with turning ideas into elegant, scalable solutions. I build applications where **performance meets design** and **functionality meets user experience**.
+I'm an **MCA student**, **Full-Stack Developer**, and **AI & Data Analytics Enthusiast** passionate about building scalable, user-centric applications with modern technologies.
 
-> 🚀 **My Engineering Journey:** Web Fundamentals → Full-Stack Mastery → AI Integration & System Design
+🚀 **Journey**
 
-I don't just write code. **I engineer solutions that matter.**
+`Web Development` → `Full-Stack Engineering` → `Python` → `Data Analytics` → `Generative AI` → `Cloud` → `System Design`
+
+💡 I build intelligent, high-performance software using **Python, Java, React, Spring Boot, SQL, MongoDB, AI, LLMs & Data Analytics** while continuously learning and creating impactful projects.
 
 ---
+
 
 # 📊 Quick Snapshot
 
@@ -163,75 +165,6 @@ Enterprise-grade code
 
 ---
 
-<div align="center">
-
-</div>
-
----
-
-# 🎯 Growth Trajectory
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<h3>Phase 1️⃣</h3>
-<b>Fundamentals</b>
-<br><br>
-• HTML, CSS, JS<br>
-• Problem Solving<br>
-• Core Concepts
-</td>
-<td align="center" width="33%">
-<h3>Phase 2️⃣</h3>
-<b>Full-Stack</b>
-<br><br>
-• React Development<br>
-• Backend Systems<br>
-• Database Design
-</td>
-<td align="center" width="33%">
-<h3>Phase 3️⃣</h3>
-<b>Advanced</b>
-<br><br>
-• System Design<br>
-• Cloud & DevOps<br>
-• AI Integration
-</td>
-</tr>
-</table>
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<!-- Stats Cards -->
-<table>
-<tr>
-<td valign="top">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=vedantjawake&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats"/>
-</td>
-<td valign="top">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjawake&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=vedantjawake&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
-
-<br><br>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjawake&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="800"/>
-
-</div>
-
----
-
 # 🎯 Current Goals
 
 <div align="center">
@@ -269,38 +202,6 @@ Enterprise-grade code
 
 ---
 
-# 💻 Development Toolbox
-
-<div align="center">
-
-### Languages & Fundamentals
-```javascript
-JavaScript • Java • C++ • HTML5 • CSS3
-```
-
-### Frontend Mastery
-```react
-React • React Router • Tailwind CSS • Bootstrap • Responsive Design
-```
-
-### Backend Architecture
-```node
-Node.js • Express.js • REST APIs • Authentication • Microservices Basics
-```
-
-### Database & Storage
-```database
-MongoDB • Firebase • MySQL • Data Modeling • Query Optimization
-```
-
-### DevOps & Tools
-```devops
-Git • GitHub • Docker (Learning) • CI/CD (Learning) • Postman • VS Code
-```
-
-</div>
-
----
 
 # 🌱 Continuous Learning
 
@@ -315,21 +216,10 @@ Currently exploring:
 - 🔹 **Cloud Platforms** — AWS, Google Cloud
 - 🔹 **Advanced Algorithms** — Optimization & performance
 
----
 
-# 📚 Key Stats
 
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| 🎓 **Education** | MCA Student |
-| 💼 **Experience** | 2+ Years Development |
-| 📦 **Projects** | 15+ Completed |
-| ⭐ **Focus Areas** | Full-Stack, AI, Scalability |
-| 🚀 **Active Learning** | Every Day |
-
-</div>
 
 ---
 
@@ -345,39 +235,44 @@ Every day I learn is a day better than yesterday.
 
 <br>
 
-**💪 Driven by curiosity. Powered by passion. Committed to excellence.**
+<div align="center">
 
-<br>
-
-<img src="https://img.shields.io/badge/Last_Updated-July_2026-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-
-<br>
 
 <a href="https://github.com/vedantjawake">
   <img src="https://img.shields.io/badge/🚀_View_My_Projects-Click_Here-00D9FF?style=for-the-badge&logo=github&labelColor=0D1117"/>
 </a>
 
-<br><br>
 
-<img src="https://visitor-badge.lazycoder.com/path?username=vedantjawake&format=flat&label=Visitors&color=00D9FF&labelColor=0D1117" alt="Visitors"/>
 
 </div>
-
-# 🎯 ENHANCED PERSONAL BIO SECTION - Premium Animated Edition
-
-## For Your GitHub README (Ready to Copy-Paste)
-
----
 
 <div align="center">
 
+</div>
 
-## Ready to Use!
+---
 
-**Copy the content above and paste into your GitHub README**
+<br>
 
-**Position it after your typing animation for maximum impact!**
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=vedantjawake&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats"/>
 
-**This will become the heart of your profile! ❤️**
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vedantjawake&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="800"/>
 
 </div>
+
+---
+**🚀 Driven by curiosity. Powered by passion. Committed to excellence.**
+
+![](https://img.shields.io/badge/Last%20Updated-2024-00D9FF?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Always%20Learning-00D9FF?style=for-the-badge)
+![](https://img.shields.io/badge/Passion-Building%20Great%20Software-00D9FF?style=for-the-badge)
+
+</div>
+</div>
+<div align="center">
+
+<br><br>
