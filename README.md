@@ -14,8 +14,6 @@
 </div>
 ---
  
-# 🎯 Who Am I?
- 
 Hi, I'm **Vedant Jawake** — an **MCA student** and **full-stack developer** obsessed with turning ideas into elegant, scalable solutions. I build applications where **performance meets design** and **functionality meets user experience**.
  
 My engineering journey: Started with **web fundamentals** → mastered **full-stack development** → now diving deep into **AI integration** and **system design**.
@@ -158,24 +156,6 @@ Every project here represents:
 | 📝 **Documentation** | Every project thoroughly documented |
  
 ---
- 
-# 🛠️ Tech Proficiency Matrix
- 
-<div align="center">
-| Skill | Proficiency | Experience |
-|-------|-------------|-----------|
-| **JavaScript/ES6+** | ⭐⭐⭐⭐⭐ | 1.5+ years |
-| **React.js** | ⭐⭐⭐⭐⭐ | 1+ years |
-| **Node.js & Express** | ⭐⭐⭐⭐ | 1+ years |
-| **MongoDB** | ⭐⭐⭐⭐ | 1+ years |
-| **Java** | ⭐⭐⭐⭐ | 1.5+ years |
-| **REST APIs** | ⭐⭐⭐⭐⭐ | 1+ years |
-| **Git & GitHub** | ⭐⭐⭐⭐⭐ | 2+ years |
-| **C++** | ⭐⭐⭐ | College projects |
- 
-</div>
----
- 
 # 🎯 Growth Trajectory
  
 <table align="center">
@@ -293,20 +273,7 @@ Currently exploring:
 - 🔹 **Cloud Platforms** — AWS, Google Cloud
 - 🔹 **Advanced Algorithms** — Optimization & performance
 ---
- 
-# 📚 Key Stats
- 
-<div align="center">
-| Metric | Value |
-|--------|-------|
-| 🎓 **Education** | MCA Student |
-| 💼 **Experience** | 2+ Years Development |
-| 📦 **Projects** | 15+ Completed |
-| ⭐ **Focus Areas** | Full-Stack, AI, Scalability |
-| 🚀 **Active Learning** | Every Day |
- 
-</div>
----
+
  
 <div align="center">
 ### ⚡ Philosophy
