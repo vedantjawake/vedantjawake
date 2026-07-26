@@ -178,25 +178,52 @@ Enterprise-grade code
 </div>
 
 ---
-
 # 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
-**I'm always open to:**
-- 🚀 Interesting full-stack projects
-- 🌟 Open source contributions
-- 📖 Knowledge sharing & mentoring
-- 💻 Hackathons & coding challenges
-- 💼 Professional opportunities
+### 💡 Open to Collaboration, Open Source, AI Projects & Professional Opportunities
+
+I'm always excited to connect with developers, recruiters, founders, and tech enthusiasts.
+
+💼 Full-Stack Development • 🤖 AI & GenAI • 📊 Data Analytics • 🐍 Python • ☁️ Cloud • 🚀 Open Source
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-jawake)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantjawake)
-[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantjawake6@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vedantjawake)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/vedant-jawake-a92764358/))
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vedantjawake)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantjawake6@gmail.com)
 
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/wiESfuyThW/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/YOUR_USERNAME)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_USERNAME)
+
+<br>
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YOUR_USERNAME)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@YOUR_USERNAME)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/YOUR_USERNAME)
+
+<br>
+
+⭐ *"Building scalable software, learning continuously, and creating solutions that make an impact."*
+
+</div>
+
+---
+<br>
+
+💼 **Open to:** Full-Stack Development • AI/GenAI • Python • Data Analytics • Open Source • Hackathons • Internships • Software Engineering Opportunities
+
+⭐ *"Building scalable software, solving real-world problems, and learning something new every day."*
+
+</div>
+
+---
 </div>
 
 ---
