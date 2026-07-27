@@ -1,26 +1,4 @@
-<!-- 📊 GitHub Stats + Top Languages -->
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=vedantjawake&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight" />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=vedantjawake&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=default"
-    alt="Vedant's GitHub Stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjawake&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjawake&layout=compact&langs_count=8&hide_border=true&theme=default"
-    alt="Top Languages" />
-</picture>
-
-</div>
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast;MCA+Student+Building+Scalable+Solutions;From+Code+to+Impact;Always+Learning%2C+Always+Shipping"/>
