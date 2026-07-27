@@ -1,4 +1,43 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vedantjawake/vedantjawake/main/dark.svg">
 
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/vedantjawake/vedantjawake/main/light.svg">
+
+  <img alt="Vedant Jawake"
+       src="https://raw.githubusercontent.com/vedantjawake/vedantjawake/main/light.svg">
+</picture>
+
+!-- 📊 GitHub Stats + Top Languages -->
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=vedantjawake&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=vedantjawake&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true"
+    alt="Vedant's GitHub Stats"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjawake&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantjawake&layout=compact&langs_count=8&hide_border=true"
+    alt="Top Languages"
+  />
+</picture>
+
+</div> 
 <div align="center">
 
 <picture>
