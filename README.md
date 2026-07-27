@@ -1,4 +1,3 @@
-
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast;MCA+Student+Building+Scalable+Solutions;From+Code+to+Impact;Always+Learning%2C+Always+Shipping"/>
