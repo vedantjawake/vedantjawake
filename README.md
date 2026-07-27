@@ -10,7 +10,7 @@
   <img alt="Snake eating my contributions"
     src="https://raw.githubusercontent.com/vedantjawake/vedantjawake/output/snake-light.svg">
 </picture>
-
+    
 </div>
 
 <!-- =================================== -->
