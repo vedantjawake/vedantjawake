@@ -1,3 +1,31 @@
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/vedantjawake/vedantjawake/output/snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/vedantjawake/vedantjawake/output/snake-light.svg">
+
+  <img alt="Snake Animation"
+       src="https://raw.githubusercontent.com/vedantjawake/vedantjawake/output/snake-light.svg">
+</picture>
+
+</div>
+</div>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/arifhaxn/arifhaxn/output/snake-light.svg" />
+
+
+</picture>
+
+</div>
+
+<!-- ===== END SNAKE ===== -->
+
+<!-- =================================== -->
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer+%26+AI+Enthusiast;MCA+Student+Building+Scalable+Solutions;From+Code+to+Impact;Always+Learning%2C+Always+Shipping"/>
