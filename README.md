@@ -90,7 +90,7 @@ I believe the best way to learn is by building complete, production-ready projec
 <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind&theme=dark" alt="Frontend"/>
 
 ### ⚙️ Backend Engineering  
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,firebase&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,python,express,java,spring,mongodb,firebase&theme=dark" alt="Backend"/>
 
 ### 🔧 Development Ecosystem
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" alt="Tools"/>
@@ -237,7 +237,7 @@ Currently exploring:
 - 🔹 **Spring Boot** — Enterprise Java applications
 - 🔹 **Docker & Containerization** — System deployment
 - 🔹 **System Design** — Architecture at scale
-- 🔹 **AI/ML Integration** — Intelligent applications
+- 🔹 **AI/ML Integration** — Intelligent applications and AIML development
 - 🔹 **Cloud Platforms** — AWS, Google Cloud
 - 🔹 **Advanced Algorithms** — Optimization & performance
 
