@@ -103,7 +103,7 @@ I believe the best way to learn is by building complete, production-ready projec
 
 | Category | Technologies |
 |----------|---------------|
-| **Languages** | `JavaScript` • `Java` • `C++` • `HTML5` • `CSS3` |
+| **Languages** | python  • `JavaScript` • `Java` • `C++` • `HTML5` • `CSS3` |
 | **Frontend** | `React` • `React Router` • `Tailwind CSS` • `Bootstrap` |
 | **Backend** | `Node.js` • `Express.js` • `Java` • `Spring Boot` *(Learning)* |
 | **Databases** | `MongoDB` • `Firebase` • `MySQL` |
