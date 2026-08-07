@@ -38,7 +38,7 @@ I believe the best way to learn is by building complete, production-ready projec
 ```yaml
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 👤 Profile: Vedant Jawake
-💼 Role: Full-Stack Developer | MCA Student
+💼 Role: AI ML Learner And Full-Stack Developer | MCA Student
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔨 Currently Building:
