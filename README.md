@@ -292,7 +292,7 @@ Every day I learn is a day better than yesterday.
 ---
 **🚀 Driven by curiosity. Powered by passion. Committed to excellence.**
 
-![](https://img.shields.io/badge/Last%20Updated-2024-00D9FF?style=for-the-badge)
+![](https://img.shields.io/badge/Last%20Updated-2026-00D9FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Status-Always%20Learning-00D9FF?style=for-the-badge)
 ![](https://img.shields.io/badge/Passion-Building%20Great%20Software-00D9FF?style=for-the-badge)
 
