@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/📂_View_My_Work-Explore_Projects-00D9FF?style=for-the-badge&labelColor=0D1117"/>
   </a>
   
-  <br><br>
+  <br><br> 
   
   <!-- Status Badge -->
   <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00D9FF?style=flat-square&labelColor=0D1117"/>
